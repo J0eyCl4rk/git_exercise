@@ -5,7 +5,7 @@ Desription:
 
 Ch 1: Attack on Mac
 
-Valaxarus descended from the heavens to destroy Cafe Mac. The food was to be protected at all costs.
+Valaxarus descended from the heavens to destroy Cafe Mac. The food was to be protected at all costs. 
 
 
 Ch 2: The Chase
