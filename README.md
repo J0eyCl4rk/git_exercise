@@ -1,7 +1,10 @@
 # git_exercise
 
-A story
+Desription:
+4 heroes must team up to defeat the evil dragon Valaxarus.
 
-Ch 1: Chapter 1
+Ch 1: Attack on Mac
 
-Ch 2: Chapter 2
+Ch 2: The Chase
+
+Ch 3: The Green Sea
